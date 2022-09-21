@@ -1,0 +1,87 @@
+131
+
+ [0] APP
+ 2.0.0.0:0 [0] APP
+ 3.0.0.0:0 [0] APP
+ 4.0.0.0:0 [0] APP
+ 5.0.0.0:0 [0] APP
+ 6.0.0.0:0 [0] APP
+ 7.0.0.0:0 [0] APP
+ 8.0.0.0:0 [0] APP
+ 9.0.0.0:0 [0] APP
+ 10.0.0.0:0 [0] APP
+ 4.0.0.0:0 [0] Trying to join...
+ 3.0.0.0:0 [0] Trying to join...
+ 2.0.0.0:0 [0] Trying to join...
+ 1.0.0.0:0 [0] Starting up group...
+ 8.0.0.0:0 [1] Trying to join...
+ 7.0.0.0:0 [1] Trying to join...
+ 6.0.0.0:0 [1] Trying to join...
+ 5.0.0.0:0 [1] Trying to join...
+ 10.0.0.0:0 [2] Trying to join...
+ 9.0.0.0:0 [2] Trying to join...
+ 4.0.0.0:0 [2] Yay I got the response from the introducer!
+ 4.0.0.0:0 [2] 0th entry; id:1; port:0; heartbeat:0; timestamp:1663741095
+ 4.0.0.0:0 [2] 1th entry; id:2; port:0; heartbeat:0; timestamp:1663741095
+ 4.0.0.0:0 [2] 2th entry; id:3; port:0; heartbeat:0; timestamp:1663741095
+ 4.0.0.0:0 [2] 3th entry; id:4; port:0; heartbeat:0; timestamp:1663741095
+ 3.0.0.0:0 [2] Yay I got the response from the introducer!
+ 3.0.0.0:0 [2] 0th entry; id:1; port:0; heartbeat:0; timestamp:1663741095
+ 3.0.0.0:0 [2] 1th entry; id:2; port:0; heartbeat:0; timestamp:1663741095
+ 3.0.0.0:0 [2] 2th entry; id:3; port:0; heartbeat:0; timestamp:1663741095
+ 2.0.0.0:0 [2] Yay I got the response from the introducer!
+ 2.0.0.0:0 [2] 0th entry; id:-333697088; port:22040; heartbeat:-333787120; timestamp:1
+ 2.0.0.0:0 [2] 1th entry; id:22040; port:12360; heartbeat:22040; timestamp:22040
+ 8.0.0.0:0 [3] Yay I got the response from the introducer!
+ 8.0.0.0:0 [3] 0th entry; id:1; port:0; heartbeat:0; timestamp:1663741095
+ 8.0.0.0:0 [3] 1th entry; id:2; port:0; heartbeat:0; timestamp:1663741095
+ 8.0.0.0:0 [3] 2th entry; id:3; port:0; heartbeat:0; timestamp:1663741095
+ 8.0.0.0:0 [3] 3th entry; id:4; port:0; heartbeat:0; timestamp:1663741095
+ 8.0.0.0:0 [3] 4th entry; id:5; port:0; heartbeat:0; timestamp:1663741095
+ 8.0.0.0:0 [3] 5th entry; id:6; port:0; heartbeat:0; timestamp:1663741095
+ 8.0.0.0:0 [3] 6th entry; id:7; port:0; heartbeat:0; timestamp:1663741095
+ 8.0.0.0:0 [3] 7th entry; id:8; port:0; heartbeat:0; timestamp:1663741095
+ 7.0.0.0:0 [3] Yay I got the response from the introducer!
+ 7.0.0.0:0 [3] 0th entry; id:1; port:0; heartbeat:0; timestamp:1663741095
+ 7.0.0.0:0 [3] 1th entry; id:2; port:0; heartbeat:0; timestamp:1663741095
+ 7.0.0.0:0 [3] 2th entry; id:3; port:0; heartbeat:0; timestamp:1663741095
+ 7.0.0.0:0 [3] 3th entry; id:4; port:0; heartbeat:0; timestamp:1663741095
+ 7.0.0.0:0 [3] 4th entry; id:5; port:0; heartbeat:0; timestamp:1663741095
+ 7.0.0.0:0 [3] 5th entry; id:6; port:0; heartbeat:0; timestamp:1663741095
+ 7.0.0.0:0 [3] 6th entry; id:7; port:0; heartbeat:0; timestamp:1663741095
+ 6.0.0.0:0 [3] Yay I got the response from the introducer!
+ 6.0.0.0:0 [3] 0th entry; id:1; port:0; heartbeat:0; timestamp:1663741095
+ 6.0.0.0:0 [3] 1th entry; id:2; port:0; heartbeat:0; timestamp:1663741095
+ 6.0.0.0:0 [3] 2th entry; id:3; port:0; heartbeat:0; timestamp:1663741095
+ 6.0.0.0:0 [3] 3th entry; id:4; port:0; heartbeat:0; timestamp:1663741095
+ 6.0.0.0:0 [3] 4th entry; id:5; port:0; heartbeat:0; timestamp:1663741095
+ 6.0.0.0:0 [3] 5th entry; id:6; port:0; heartbeat:0; timestamp:1663741095
+ 5.0.0.0:0 [3] Yay I got the response from the introducer!
+ 5.0.0.0:0 [3] 0th entry; id:1; port:0; heartbeat:0; timestamp:1663741095
+ 5.0.0.0:0 [3] 1th entry; id:2; port:0; heartbeat:0; timestamp:1663741095
+ 5.0.0.0:0 [3] 2th entry; id:3; port:0; heartbeat:0; timestamp:1663741095
+ 5.0.0.0:0 [3] 3th entry; id:4; port:0; heartbeat:0; timestamp:1663741095
+ 5.0.0.0:0 [3] 4th entry; id:5; port:0; heartbeat:0; timestamp:1663741095
+ 10.0.0.0:0 [4] Yay I got the response from the introducer!
+ 10.0.0.0:0 [4] 0th entry; id:1; port:0; heartbeat:0; timestamp:1663741095
+ 10.0.0.0:0 [4] 1th entry; id:2; port:0; heartbeat:0; timestamp:1663741095
+ 10.0.0.0:0 [4] 2th entry; id:3; port:0; heartbeat:0; timestamp:1663741095
+ 10.0.0.0:0 [4] 3th entry; id:4; port:0; heartbeat:0; timestamp:1663741095
+ 10.0.0.0:0 [4] 4th entry; id:5; port:0; heartbeat:0; timestamp:1663741095
+ 10.0.0.0:0 [4] 5th entry; id:6; port:0; heartbeat:0; timestamp:1663741095
+ 10.0.0.0:0 [4] 6th entry; id:7; port:0; heartbeat:0; timestamp:1663741095
+ 10.0.0.0:0 [4] 7th entry; id:8; port:0; heartbeat:0; timestamp:1663741095
+ 10.0.0.0:0 [4] 8th entry; id:9; port:0; heartbeat:0; timestamp:1663741095
+ 10.0.0.0:0 [4] 9th entry; id:10; port:0; heartbeat:0; timestamp:1663741095
+ 9.0.0.0:0 [4] Yay I got the response from the introducer!
+ 9.0.0.0:0 [4] 0th entry; id:1; port:0; heartbeat:0; timestamp:1663741095
+ 9.0.0.0:0 [4] 1th entry; id:2; port:0; heartbeat:0; timestamp:1663741095
+ 9.0.0.0:0 [4] 2th entry; id:3; port:0; heartbeat:0; timestamp:1663741095
+ 9.0.0.0:0 [4] 3th entry; id:4; port:0; heartbeat:0; timestamp:1663741095
+ 9.0.0.0:0 [4] 4th entry; id:5; port:0; heartbeat:0; timestamp:1663741095
+ 9.0.0.0:0 [4] 5th entry; id:6; port:0; heartbeat:0; timestamp:1663741095
+ 9.0.0.0:0 [4] 6th entry; id:7; port:0; heartbeat:0; timestamp:1663741095
+ 9.0.0.0:0 [4] 7th entry; id:8; port:0; heartbeat:0; timestamp:1663741095
+ 9.0.0.0:0 [4] 8th entry; id:9; port:0; heartbeat:0; timestamp:1663741095
+ 5.0.0.0:0 [100] Node failed at time=100
+ 1.0.0.0:0 [500] @@time=500

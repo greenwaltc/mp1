@@ -1,0 +1,5 @@
+{
+    "editor.autoSave": "on",
+    "json.schemaDownload.enable": false,
+    "debug.showInStatusBar": "always"
+}
